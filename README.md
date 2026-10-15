@@ -1,1 +1,1 @@
-# -Estacionamento-Inteligente-Validador-Scanner
+# - Estacionamento-Inteligente-Validador-Scanner
