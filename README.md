@@ -604,7 +604,7 @@ Na interface, o botão **Executar na cancela** (página Scanner) faz exatamente 
 
 ## Checklist
 
-- [ ] README começa com o nome de todos os integrantes *(trocar “Nome Completo 1…4”)*
+- [x] README começa com o nome de todos os integrantes *(trocar “Nome Completo 1…4”)*
 - [x] Cada AFD tem desenho, `delta` e saída de `tabela()`
 - [x] Cada AFD tem RegEx equivalente e 0 divergências
 - [x] Os testes incluem a palavra vazia
@@ -617,7 +617,7 @@ Na interface, o botão **Executar na cancela** (página Scanner) faz exatamente 
 - [x] `python main.py` roda do início ao fim sem erro
 - [x] `painel.ipynb` roda do início ao fim sem erro (*Executar tudo*), inclusive no Colab
 - [x] `python testes.py` termina com `OK`
-- [ ] Repositório público
+- [x] Repositório público
 
 ## Estrutura
 
