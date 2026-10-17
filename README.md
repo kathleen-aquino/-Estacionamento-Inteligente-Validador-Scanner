@@ -1,11 +1,11 @@
 # 🅿️ Estacionamento Inteligente — Validador & Scanner
 
 **Integrantes:**
-<!-- TROCAR pelos nomes reais do grupo (4 a 6 integrantes) antes de entregar -->
-- Nome Completo 1
-- Nome Completo 2
-- Nome Completo 3
-- Nome Completo 4
+
+- Victor Borges Quintella de Almeida	2544963
+- Kathleen Aquino Lima	2364196
+- João Victor Brandão	2359197
+- Lucas Costa	2361186
 
 **Tema:** Estacionamento inteligente — validação de placas e horários, controle da cancela e leitura de comandos de entrada/saída.
 
