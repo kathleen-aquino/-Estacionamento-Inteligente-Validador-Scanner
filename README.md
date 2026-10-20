@@ -604,7 +604,7 @@ Na interface, o botão **Executar na cancela** (página Scanner) faz exatamente 
 
 ## Checklist
 
-- [x] README começa com o nome de todos os integrantes *(trocar “Nome Completo 1…4”)*
+- [x] README começa com o nome de todos os integrantes 
 - [x] Cada AFD tem desenho, `delta` e saída de `tabela()`
 - [x] Cada AFD tem RegEx equivalente e 0 divergências
 - [x] Os testes incluem a palavra vazia
