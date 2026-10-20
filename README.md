@@ -493,6 +493,17 @@ Abra `painel.ipynb` e use *Executar tudo*. A primeira célula acha o projeto soz
 
 ![Cancela](img/tela_cancela.png)
 
+---
+
+### Evidências
+<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/91d2b57b-c356-4b3f-b78c-491b3ae243df" />
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/9a04cf52-0537-48b6-966d-b898e35db790" />
+<img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/1cdc3c51-b881-48e3-993a-5d9c8ae8e15e" />
+<img width="1600" height="842" alt="image" src="https://github.com/user-attachments/assets/9d16cdc2-d6ec-4e8d-b494-729d55b8251f" />
+<img width="1600" height="818" alt="image" src="https://github.com/user-attachments/assets/5dec6ff0-aaa2-40c6-a5eb-368d7ade0de6" />
+<img width="956" height="498" alt="image" src="https://github.com/user-attachments/assets/bc4fd1f2-91a1-4a5a-8d22-163cfb25cced" />
+<img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/54a8c6bd-04f2-418a-b64b-6e1dbbc490c1" />
+<img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/8e899c66-697f-4b5a-a6c9-9aceab3ba425" />
 
 ---
 
