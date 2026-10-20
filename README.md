@@ -58,11 +58,12 @@ flowchart LR
 5. [Máquina de estados — Cancela](#máquina-de-estados--cancela)
 6. [Mini-scanner de comandos](#mini-scanner-de-comandos)
 7. [Interface](#interface)
-8. [Bônus](#bônus)
-9. [Checklist](#checklist)
-10. [Estrutura](#estrutura)
-11. [Problemas comuns](#problemas-comuns)
-12. [Referências](#referências)
+8. [Evidências](#evidências)
+9. [Bônus](#bônus)
+10. [Checklist](#checklist)
+11. [Estrutura](#estrutura)
+12. [Problemas comuns](#problemas-comuns)
+13. [Referências](#referências)
 
 ---
 
